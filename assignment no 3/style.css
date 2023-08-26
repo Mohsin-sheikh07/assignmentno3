@@ -1,0 +1,373 @@
+body{
+    background: #FCFBF4;
+    font-family: 'Oswald', sans-serif;
+    
+    }
+    
+    .img1{
+    box-sizing: border-box;
+    display: inline-block;
+    width: 40px;
+    height: 40px ;
+    }
+    .left{
+    padding: 30px;
+    display: inline;
+    width: 150px;
+    }
+    
+    h2{
+        display: inline;
+    
+    }
+    .right{
+    display: inline;
+    width: 100px;
+    margin-left:  1270px;
+    padding-right: 20px;
+    }
+    
+    .option{
+        color: dimgray;
+        text-decoration: none;
+    }
+    a{
+    
+        text-decoration: none;
+        margin-right: 15px;
+    
+    }
+    button{
+    
+    color: white;
+    background-color: tomato;
+    border: 6px;
+    border-radius: 2px;
+    border-color: black;
+    
+    }
+    
+    .upper{
+    background-color: #e4e4da;
+    
+    
+    
+    }
+    
+    .textmain{
+    margin: 0;
+    
+    }
+    
+       
+       
+      
+       
+       
+       .section img{
+    
+    
+    height:  250px;
+       
+     
+     
+       }
+    
+       .section{
+    
+        display: flex;
+        justify-content: space-between;
+         padding: 40px;
+         width: 60%;
+         margin : 10rem auto 0 auto ;    
+       }
+       .shop{
+    color: #FFFDD0;
+    background-color: tomato;
+    text-decoration: solid;
+    margin-left: 400px;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    
+       }
+       .Contact{
+        color: #ffffff;
+        background-color: rgb(0, 0, 0);
+        text-decoration: solid;
+        
+        height: 50px;
+        width: 100px;
+        border-radius: 10px;
+    
+    
+       }
+    
+       .Services{
+    
+    
+    text-align: center;
+    margin-top: 150px;
+       }
+     
+       .servicetext{
+    
+    
+        text-align: center;
+        
+           }
+    
+    
+    
+           .item1{
+    
+    display: inline-block;
+    border: #000000 20px;
+    
+     width: 400px;
+     margin-left: 250px;
+     background-color: #f0f0e8;
+     height: auto;
+    padding-top: 50px;
+    
+    }
+    
+    
+    
+    
+    .item2{
+    
+    
+    display: inline-block;
+    border: #000000 20px;
+    background-color: #f0f0e8;
+    width: 400px;
+    margin-left: 100px;
+    height: auto;
+    padding-top: 50px;
+    }
+    
+    
+    
+    .item3{
+    
+    
+       display: inline-block;
+       border: #000000 20px;
+       background-color: #f0f0e8;
+       width: 400px;
+       margin-left: 100px;
+       height: auto;
+       padding-top: 35px;
+       
+    }
+    .img3{
+    
+    padding-left: 160px;
+    
+    }
+    
+    .img4
+    {
+    
+       padding-left: 160px;
+       
+    }
+    
+    .img5
+    {
+    
+       padding-left: 160px;
+       
+    }
+    
+    
+    .read{
+    
+       color: #ffffff;
+       background-color: rgb(0, 0, 0);
+       text-decoration: solid;
+       
+       height: 50px;
+       width: 100px;
+       border-radius: 10px;
+       margin-left:900px;
+    
+    }
+    
+    
+    
+    .Orange{
+    padding-left: 80px;
+    display: inline-block;
+    }
+    .orngtext{
+    
+    width: 900px;
+    
+    
+    }
+    .imgorng{
+    
+    padding-right: 150px;   
+    }
+    
+    .buyorange{
+       
+       
+       color: #ffffff;
+       background-color: rgb(0, 0, 0);
+       text-decoration: solid;
+       height: 50px;
+       width: 100px;
+       border-radius: 10px;
+       
+    }
+    
+    .Grapes{
+       padding-left: 80px;
+       display: inline-block;
+       }
+       .grapetext{
+       
+       width: 900px;
+       
+       
+       }
+       .imggrp{
+       
+       padding-right: 150px;   
+       }
+       
+       .buygrapes{
+          
+          
+          color: #ffffff;
+          background-color: rgb(0, 0, 0);
+          text-decoration: solid;
+          height: 50px;
+          width: 100px;
+          border-radius: 10px;
+          
+       }
+    
+       .Guava{
+          padding-left: 80px;
+          display: inline-block;
+          }
+          .guavatext{
+          
+          width: 900px;
+          
+          
+          }
+          .imgguava{
+          
+          padding-right: 150px;   
+          }
+          
+          .buyguava{
+             
+             
+             color: #ffffff;
+             background-color: rgb(0, 0, 0);
+             text-decoration: solid;
+             height: 50px;
+          width: 100px;
+             border-radius: 10px;
+             
+          }
+    
+          .client{
+    
+    margin-left: 760px;
+    
+    
+          }
+    
+          .test{
+    
+         letter-spacing: 7px;
+    
+    
+          }
+    
+          .name{
+    
+             margin-left: 899px;
+             letter-spacing: 3px;
+          }
+    
+          .contactus{
+        
+    
+            margin-left: 50px;
+       display: inline-block;
+    margin-right: 1330px;
+          }
+    
+          .msg{
+    
+    
+              height:80px;
+          }
+          .sho{
+    
+    
+             color: #FFFDD0;
+             background-color: tomato;
+             text-decoration: solid;
+             margin-left: 40px;
+             border-radius: 20px;
+             height: 50px;
+             width: 100px;
+             
+          }
+    
+          .frut{
+    
+    margin-left: 50px;
+    display: inline-block;
+    
+    width: 130px;
+    letter-spacing: 3px;
+          }
+    
+    
+          .serv{
+    
+    
+             display: inline-block;
+             margin-left: 300px;
+             width: 130px;
+             letter-spacing: 3px;
+                   }
+    
+                   .list{
+    
+    
+                      display: inline-block;
+                      margin-left: 300px;
+                      width: 110px;
+                      letter-spacing: 3px;
+                            }
+    
+                            .sub
+    {
+    
+       color: #FFFDD0;
+       background-color: tomato;
+       text-decoration: solid;
+       border-radius: 20px;
+       height: 50px;
+       width: 100px;
+    
+    }
+    
+    .links{
+    
+    display: inline-block;
+    margin-left: ;
+    width: 180px;
+    margin-left: 300px;
+    }
